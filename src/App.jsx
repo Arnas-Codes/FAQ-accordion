@@ -38,7 +38,7 @@ const App = () => {
   };
 
   return (
-    <div className="min-h-screen w-full bg-[#f8eeff] bg-[url('./assets/background-pattern-mobile.svg')] sm:bg-[url('./assets/background-pattern-desktop.svg')] bg-no-repeat bg-contain flex items-center justify-center p-6 font-['Work_Sans',sans-serif]">
+    <div className="min-h-screen w-full bg-[#f8eeff] bg-[url('./assets/background-pattern-mobile.svg')] sm:bg-[url('./assets/background-pattern-desktop.svg')] bg-no-repeat bg-contain flex items-center justify-center p-5 font-['Work_Sans',sans-serif]">
       <main className="w-full  max-w-150 bg-white p-6 sm:p-10 rounded-2xl shadow-[0_24px_56px_rgba(45,10,56,0.1)]">
         <div className="flex items-center gap-6 mb-8">
           <img
